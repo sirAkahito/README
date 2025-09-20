@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhheTk2Zndzdmx0cnFuamx2aHpseHBob2o4a2Q5ZjM0dXNzeHRsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif)" width="100"/>
+</div>
+
 # 💫 About Me:
 Сейчас учу питон
 
